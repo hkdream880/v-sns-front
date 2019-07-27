@@ -11,7 +11,6 @@ import Header from '@/components/header.vue';
 import Alert from '@/components/alert.vue';
 import Modal from '@/components/modal.vue';
 import Login from '@/components/login.vue';
-//import io from 'http://localhost:8080/v-chat/socket.io.js';
 
 /*eslint-disable*/
 Vue.prototype.$http = axios;
